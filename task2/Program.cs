@@ -195,26 +195,7 @@ namespace task2
                 }
             } while (pressedButton != 'Q' || pressedButton != 'q');
 
-
-
-            //int[] nums = [44,78,96,55,24,71,425,638,475,4];
-            //int temp;
-
-
-            //for (int i = 0; i < nums.Length; i++) {
-
-            //    for (int j = i+1; j < nums.Length; j++) {
-            //        temp = 0;
-            //        if (nums[i] > nums[j])
-            //        {
-            //            temp = nums[j];
-            //            nums[j] = nums[i];
-            //            nums[i] = temp;
-
-            //        } 
-            //    }
-            //    Console.WriteLine(nums[i]);
-            //}
+            
         }
     }
 }
